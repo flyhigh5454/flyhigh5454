@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me message me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She,her 
+- ⚡ Fun fact:I love cats
+- 
 
 <!---
 flyhigh5454/flyhigh5454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
